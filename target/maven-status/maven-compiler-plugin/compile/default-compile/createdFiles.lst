@@ -1,0 +1,8 @@
+com\vidya\Login.class
+com\vidya\RegistrationController.class
+com\vidya\dao\UserRepository.class
+com\vidya\service\UserServiceImpl.class
+com\vidya\service\UserService.class
+com\vidya\HomeController.class
+com\vidya\User.class
+com\vidya\LoginController.class
